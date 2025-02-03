@@ -45,7 +45,7 @@
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/LeoSousaJesus/Github-Non-Followers/blob/main/LICENSE) para mais detalhes.
 
 ## **Para executar o Script:**
 
