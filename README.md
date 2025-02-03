@@ -1,6 +1,6 @@
 # GitHub Non-Followers Checker
 
-## **Este é um programa Python que verifica quais usuários do GitHub você segue, mas que não seguem você de volta. Ele utiliza a API do GitHub para obter as listas de seguidores e usuários que você segue, e então compara essas listas para identificar os usuários que não te seguem de volta. Caso queira deixar de seguir quem não te segue de volta basta executar o arquivo .py e verificar os nomes gerados na lista**
+## **Este é um programa em Python que verifica quais usuários do GitHub você segue, mas que não seguem você de volta. Ele utiliza a API do GitHub para obter as listas de seguidores e usuários que você segue, e então compara essas listas para identificar os usuários que não te seguem de volta. Caso queira deixar de seguir quem não te segue de volta basta executar o arquivo .py e verificar os nomes gerados na lista.**
 
 ## Funcionalidades
 - Obtém a lista de usuários que você segue no GitHub.
